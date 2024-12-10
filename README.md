@@ -1,6 +1,9 @@
 # INRA-MISTEA 
 # OPENSILEX-PHIS Docker installation
 
+> [!CAUTION]
+> The project has not be maintained for years and must not be used anymore. All users must use [opensilex-docker-compose](https://github.com/OpenSILEX/opensilex-docker-compose) version.
+
 This docker set of images build of full running OPENSILEX-PHIS instance on localhost
 
 ## Prerequesites
